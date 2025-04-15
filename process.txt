@@ -1,0 +1,8 @@
+create repo on github
+cline it locally
+create files
+commit files
+push the commit
+thats it, if different branch then use checkout to change branches
+and push onto those branches
+
